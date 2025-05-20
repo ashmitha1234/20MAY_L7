@@ -5,3 +5,4 @@ I am a student at Amity University Bengaluru
 Date : 20th may 2025
 University : Amity University Bengaluru
 Course : Btech AIML
+full name: Ashmitha T S

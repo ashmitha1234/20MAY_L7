@@ -9,8 +9,5 @@ int main()
 	int sum = num1 + num2;
 	printf("The sum is : %d",sum);
 	int prod = num1 * num2;
-	printf("The product is : %d",prod); 
-	int num1, num2, diff;
-	printf("Enter num1 and num2");
-	scanf("%d %d", &num1, &num2);
+	printf("The product is : %d",prod);
 }
