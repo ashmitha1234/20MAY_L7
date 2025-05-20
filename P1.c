@@ -2,7 +2,7 @@
 int main()
 {
 	int num1, num2;
-        printf("Enter two numbers : ");
+	printf("Enter num1 and num2 : ");
         scanf("%d %d", &num1, &num2);
 	int diff = num1 - num2;
 	printf("The differece is : %d",diff);
@@ -13,5 +13,4 @@ int main()
 	int num1, num2, diff;
 	printf("Enter num1 and num2");
 	scanf("%d %d", &num1, &num2);
->>>>>>> B1
 }
